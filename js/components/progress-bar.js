@@ -1,4 +1,4 @@
-// Created by: Farukham: (https://github.com/farukham/Bootstrap-Animated-Progress-Bars)
+
 // Progress Bar
 var ProgressBar = function() {
     "use strict";
